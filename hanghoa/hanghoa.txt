@@ -1,0 +1,21 @@
+
+<h2>Danh sách hàng hóa </h2>
+
+<ul style="list-style-type:square;">
+  <li>Th?c ph?m</li>
+    <ol>G?o</ol>
+    <ol>Lúa mì</ol>
+    <ol>Ngô</ol>
+    <ol>Khoai</ol>
+    <ol>s?n</ol>
+  <li>Th?t</li>
+    <ol>Th?t bò</ol>
+    <ol>Th?t l?n</ol>
+    <ol>Th?t cá</ol>
+    <ol>Th?t c?u</ol>
+  <li>Ð? an li?n</li>
+    <ol>Bánh chu?i</ol>
+    <ol>khoai tây chiên</ol>
+    <ol>Bánh khoai</ol>
+    <ol>Bánh ngô</ol>
+</ul>
